@@ -58,17 +58,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=machzaul&theme=tokyonight" />
 </div>
 
-<br/>
-
-### 🐍 Commit Snake – My Coding Journey Visualized!
-
-> *Every commit shapes the path. The snake moves with my contributions!*  
-
-[![GitHub Snake](https://github.com/machzaul/machzaul/blob/output/github-contribution-grid-snake.svg)](https://github.com/machzaul/machzaul/blob/output/github-contribution-grid-snake.svg)
-
-*(Generated using [github-snake](https://github.com/Platane/snk))*
-
----
 
 ## 🌐 Connect With Me
 
