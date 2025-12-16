@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Machzaul+Harmansyah;Full-Stack+%26+Game+Developer;Building+Tech+for+Education" alt="Typing SVG" />
+</h1>
 
-<!--
-**machzaul/machzaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Informatics Engineering Student 🇮🇩 | Laravel • Flask • Unity • AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    🚀 Building interactive systems that blend education, games & smart tech<br/>
+    💡 197+ commits last year • 🌟 9+ stars • 📦 4+ featured projects
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **Informatics Engineering Student** – Focused on human-centered tech  
+- 🕹️ **Unity Game Developer** – Crafting educational RPGs & gamified learning  
+- 🌐 **Full-Stack Developer** – Laravel (PHP), Flask (Python), JavaScript  
+- 🤖 **Tech Explorer** – AI, Computer Vision, IoT (ESP32/Arduino)  
+- 🇮🇩 Based in **Indonesia** | Open to collaboration & open-source!
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🧰 Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- 🎮 **Educational Math Runner Game** – Unity-based learning game for students  
+- 🧠 **AI-based Quiz & Adaptive Learning System** – Python + Computer Vision  
+- 📚 **Smart Library System** – IoT (ESP32) + Laravel dashboard  
+- 💊 **Pharmacy E-Commerce Website** – Full-stack web app with cart & auth  
+
+> 🔧 All projects are open to feedback and contributions!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=machzaul&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=machzaul&theme=tokyonight" />
+</div>
+
+<br/>
+
+### 🐍 Commit Snake – My Coding Journey Visualized!
+
+> *Every commit shapes the path. The snake moves with my contributions!*  
+
+[![GitHub Snake](https://github.com/machzaul/machzaul/blob/output/github-contribution-grid-snake.svg)](https://github.com/machzaul/machzaul/blob/output/github-contribution-grid-snake.svg)
+
+*(Generated using [github-snake](https://github.com/Platane/snk))*
+
+---
+
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+---
+
+<details>
+  <summary>✨ Terminal Wisdom</summary>
+
+  ```bash
+  $ whoami
+  machzaul
+  $ github-stats
+  Commits: 197 | Stars: 9 | Projects: 4+
+  $ motto
+  "Code is not just logic—it’s an art."
